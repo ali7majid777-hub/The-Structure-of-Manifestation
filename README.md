@@ -15,6 +15,12 @@
 *A foundational philosophical work investigating structure as the condition for the possibility of the field of manifestation and its generation.*
 
 ---
+<img width="1005" height="1461" alt="inbound6144971021818687291" src="https://github.com/user-attachments/assets/abb0f3c8-18f8-4ef9-8031-8058cd3d2bcb" />
+
+
+<img width="995" height="1446" alt="inbound2086819811103017285" src="https://github.com/user-attachments/assets/9623b305-f4c2-4d3f-ad22-aacb838830f4" />
+
+
 
 ## بيانات الكتاب | Book Information
 
@@ -79,3 +85,7 @@ Mjeed, Ali. *The Structure of Manifestation as the Condition for Its Possibility
 ---
 
 © 2026 Ali Mjeed | علي مجيد
+
+
+<img width="1106" height="1573" alt="inbound5201199995775140641" src="https://github.com/user-attachments/assets/92d43d97-7db7-49d7-aaff-c123471fa793" />
+
