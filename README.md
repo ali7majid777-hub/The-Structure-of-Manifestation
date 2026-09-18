@@ -22,7 +22,7 @@
 <p style="font-size:16px; font-weight:400; line-height:1.6;" dir="rtl">
 ولا ينفصل إمكان الظهور عن تحققه؛ فالبنية التي تجعل الظهور ممكنًا هي عينها البنية التي يتحقق بها، ومن هنا ينكشف التوليد بوصفه الوجه الداخلي لتحقق الإمكان نفسه، لا فعلًا لاحقًا يضاف إلى إمكان مكتمل، ولا حدوثًا زمنيًا مقصودًا بالمفهوم. كما أن الفكر والسؤال والتحليل والحكم والنفي والإثبات وغيرها، متى تحققت بوصفها تعيّنات، لا يكون إمكان تعيّنها مستقلًا عن هذا الشرط؛ لذلك لا يقف التحليل خارج ما يكشفه، بل ينتهي النسق إلى انعكاس البنية على ذاتها، حيث ينكشف أن إمكان السؤال عن الشرط متحقق هو نفسه من خلال الشرط الذي يسأل عنه.
 </p>
-## About the Philosophical System
+<h2>About the Philosophical System</h2>
 
 This philosophical system begins with a foundational question: What makes manifestation itself possible? It does not take manifestation as an ultimate principle or as a presupposed first truth. Rather, it begins by analyzing manifestation as the field through which what manifests is realized, and then turns the question back upon the possibility of this field itself, ultimately disclosing structure as the condition for the possibility of manifestation.
 
